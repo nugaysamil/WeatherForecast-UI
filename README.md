@@ -1,5 +1,5 @@
 
-Dont use c++ but i use Dart it.
+I didn't use c++, only in a programming language with dart
 
 !![image](https://user-images.githubusercontent.com/106466382/184501894-5da04027-5208-4f2f-8c7f-78c85d14ab91.png)
 !![image](https://user-images.githubusercontent.com/106466382/184501900-55f08273-74a1-4b58-b9bd-b2fe598da33f.png)
